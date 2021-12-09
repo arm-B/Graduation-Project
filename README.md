@@ -19,3 +19,8 @@
     
 **Colab에서 YOLO.ipynb를 실행하기 전 GPU를 사용하도록 런타임 유형을 변경해 주어야 한다.**
     ![이미지](https://media.vlpt.us/images/hannah0125/post/7ec95b4c-1969-4fe3-ba3c-ba3541e64325/image.png)
+
+---
+### Google Teachable Machine을 활용한 강아지 포즈 분석
++ 수집한 데이터를 모아(아직 극소량이라 효과가 뛰어나지는 않음) 필요한 유형별로 클래스를 직접 나누어 학습 진행
++ index.js를 실행하면 webcam을 통해 input 입력을 받도록 되어 있다. 파일로 입력하는 것으로 변경하는 방법도 존재한다.
