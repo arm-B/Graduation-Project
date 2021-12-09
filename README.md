@@ -14,6 +14,7 @@
     
     ![이미지](https://media.vlpt.us/images/hannah0125/post/376cd8ac-0567-45bd-8e21-216b87e0e5d4/yolo%EC%82%AC%EC%A0%84%EC%84%A4%EC%A0%95.JPG)
 2. Google Drive 내 드라이브에 YOLO > backup 폴더를 생성하여 위에서 받았던 가중치 파일인 yolov3.weights 파일을 넣어 준다.
+
     ![이미지](https://media.vlpt.us/images/hannah0125/post/a1af99f3-56e8-4cad-b33c-439f16a2aa8e/yolo%EC%82%AC%EC%A0%84%EC%84%A4%EC%A0%952.JPG)
     
 **Colab에서 YOLO.ipynb를 실행하기 전 GPU를 사용하도록 런타임 유형을 변경해 주어야 한다.**
